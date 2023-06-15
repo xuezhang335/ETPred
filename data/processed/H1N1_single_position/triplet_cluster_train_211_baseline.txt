@@ -1,0 +1,5 @@
+ Accuracy:	0.782
+ Precision:	0.803
+ Recall:	0.870
+ F1-score:	0.835
+ Matthews CC:	0.521
